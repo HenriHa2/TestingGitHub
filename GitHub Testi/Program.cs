@@ -8,6 +8,8 @@ namespace GitHub_Testi
         {
             Console.WriteLine("Terve!");
             Console.WriteLine("Lisää koodia");
+            Console.WriteLine("Lisää koodia2");
+
         }
     }
 }
