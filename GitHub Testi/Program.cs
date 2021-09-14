@@ -7,6 +7,7 @@ namespace GitHub_Testi
         static void Main(string[] args)
         {
             Console.WriteLine("Terve!");
+            Console.WriteLine("Lisää koodia");
         }
     }
 }
