@@ -12,7 +12,7 @@ namespace GitHub_Testi
             Console.WriteLine("Kirjoita jotain: ");
             string x = Console.ReadLine();
 
-            ""Nyt tehdään jotan paskaa""
+            
         }
     }
 }
